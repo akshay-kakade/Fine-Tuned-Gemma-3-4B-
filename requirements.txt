@@ -1,0 +1,6 @@
+unsloth
+gradio
+torch
+transformers
+datasets
+trl
